@@ -1,5 +1,5 @@
 #back {
-  background: url(side.jpg);
+  background: url(/images/side.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -8,7 +8,7 @@
 }
 
 #road {
-  background: url(road.jpg);
+  background: url(/images/road.jpg);
 }
 
 #img {
